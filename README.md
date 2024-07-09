@@ -1,5 +1,6 @@
-## Olá! Eu me chamo Márcia Vitória.😊
-#### Sou estudante do Ensino Médio, e atualmente também estou cursando Técnico em Informática no IFPB (2/3). Estou sempre em busca de aprender sobre o mundo das tecnologias, um campo dinâmico e em constante evolução. No meu curso, estudamos a linguagem Python, que a considero poderosa e versátil. No entanto, meu objetivo é aprender outras linguagens de programação para aumentar minhas habilidades.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=27&pause=1000&color=FFFEFE&center=falso&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=430&lines=Ol%C3%A1!+Eu+sou+M%C3%A1rcia+Vit%C3%B3ria." alt="Typing SVG" /></a> 
+
+Sou estudante do curso técnico integrado em informática no IFPB (2/3) e iniciante no mundo da programação. Atualmente, estou focada em aprender Python e explorar novas tecnologias. 😊
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />

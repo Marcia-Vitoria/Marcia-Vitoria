@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=27&pause=1000&color=FFFEFE&center=falso&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=430&lines=Ol%C3%A1!+Eu+sou+M%C3%A1rcia+Vit%C3%B3ria." alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=5005&pause=1000&color=FFF02B&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!+Eu+sou+M%C3%A1rcia+Vit%C3%B3ria." alt="Typing SVG" /></a> 
 
 Sou estudante do curso técnico integrado em informática no IFPB (2/3) e iniciante no mundo da programação. Atualmente, estou focada em aprender Python e explorar novas tecnologias. 😊
 
